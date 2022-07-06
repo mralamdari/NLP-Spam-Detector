@@ -1,2 +1,2 @@
 # NLP Spam Detector
-In this repository,
+In this repository, you will learn about
